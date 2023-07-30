@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ebru Ekin</h1>
 <h3 align="center">Computer Engineer</h3>
 
+- 🌱 I’m currently learning **everything 😅**
+
 - 📫 How to reach me **ebrueknn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
